@@ -56,11 +56,22 @@ The Flight Management System is a Java application designed to streamline the ma
 - Follow the on-screen instructions to input flight details for each flight.
 - View pre-sorted and sorted flight information displayed in the console.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/aa2e6ecd-2f10-4d59-ac48-2baa43e381b1)
+### Before Sorting
+![image](https://github.com/user-attachments/assets/f94ff839-04a5-47ec-a18d-d7776476096e)
+### After Sorting
+![image](https://github.com/user-attachments/assets/1c7697f6-8597-4f00-8862-30f222012356)
+
+
+
+
 ## UML Diagram
 
 The UML diagram below represents the structure and relationships of the classes in the Flight Management System.
 
-![UML Diagram](./UML.png)
+![image](https://github.com/user-attachments/assets/a0e870d3-da7c-42fe-8441-e9a526596587)
+
 
 ## Dependencies
 
